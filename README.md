@@ -4,12 +4,12 @@ Dataset de **código fuente** de seguridad ofensiva / red teaming extraído de r
 
 **Columnas:** `content, repo_name, path, license, lang, topic`
 
-- Repos procesados: 1060
-- Repos con código: 948
-- Archivos de código: 136992
-- Código crudo ~ 3.32 GB (verificado subido)
-- Partes Parquet: 3
-- Motivo de parada: burst_time
+- Repos procesados: 175
+- Repos con código: 61
+- Archivos de código: 7131
+- Código crudo ~ 3.40 GB (verificado subido)
+- Partes Parquet: 4
+- Motivo de parada: error: [Errno 28] No space left on device
 
 ## Carga
 ```python
