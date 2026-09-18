@@ -4,11 +4,11 @@ Dataset de **código fuente** de seguridad ofensiva / red teaming extraído de r
 
 **Columnas:** `content, repo_name, path, license, lang, topic`
 
-- Repos procesados: 1240
-- Repos con código: 764
-- Archivos de código: 63854
-- Código crudo ~ 11.66 GB (verificado subido)
-- Partes Parquet: 21
+- Repos procesados: 1053
+- Repos con código: 524
+- Archivos de código: 52824
+- Código crudo ~ 12.12 GB (verificado subido)
+- Partes Parquet: 22
 - Motivo de parada: burst_time
 
 ## Carga
